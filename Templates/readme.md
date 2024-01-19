@@ -4,12 +4,12 @@
 A brief introduction of your project goes here. You may want to cover the purpose of your project, its core functionality, and what problems it solves.
 
 ## Project Type
-Frontend | Backend | Fullstack
+Fullstack
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
-Backend: https://deployed-site.whatever
-Database: https://deployed-site.whatever
+- Frontend: https://deployed-site.whatever
+- Backend: https://deployed-site.whatever
+- Database: https://deployed-site.whatever
 
 ## Directory Structure
 my-app/
