@@ -4,7 +4,7 @@
 A brief introduction of your project goes here. You may want to cover the purpose of your project, its core functionality, and what problems it solves.
 
 ## Project Type
-Fullstack
+- Fullstack
 
 ## Deplolyed App
 - Frontend: https://deployed-site.whatever
